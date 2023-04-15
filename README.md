@@ -1,2 +1,2 @@
-# Arac-Tespit-Algoritmasi
-Olasılık ve İstatistik dersi kapsamında oluşturulan "Araç Tespit Algoritması" kaynak kodları.
+# Araç Tespit Algoritması
+Keras RetinaNet kullanılarak oluştulmaya başlanmış "Araç Tespit Algoritması". Çalışmalar tamamlandığında tüm kaynak kodlar paylaşılacaktır.
