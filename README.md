@@ -55,6 +55,10 @@ python3 scripts/predict.py --input img1.jpg --output img1_output.jpg --backbone 
     <td><img src="/src/inputs/3.jpg" alt="Resim 3"></td>
     <td><img src="/src/outputs/3_output.jpg" alt="Resim 3"></td>
   </tr>
+  <tr>
+    <td><img src="/src/inputs/4.jpg" alt="Resim 4"></td>
+    <td><img src="/src/outputs/4_output.jpg" alt="Resim 4"></td>
+  </tr>
 </table>
 
 
