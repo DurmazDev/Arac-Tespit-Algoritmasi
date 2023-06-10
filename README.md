@@ -1,6 +1,17 @@
 # Araç Tespit Algoritması
 [Keras Retinanet](https://github.com/fizyr/keras-retinanet/) kullanılarak, Olasılık ve İstatistik dersi kapsamında oluşturulan "Araç Tespit Algoritması" kaynak kodları.
 
+## Takım Üyeleri
+<table>
+    <tbody>
+        <tr>
+            <td align="center" valign="top" width="11.11%"><a href="https://github.com/barisazar"><img src="https://github.com/barisazar.png" width="100px;" alt="Baris Azar"/><br /><sub><b>Barış Azar</b></sub></a><br /><p>Üye</p></td>
+            <td align="center" valign="top" width="11.11%"><a href="https://github.com/AAhmetDurmaz"><img src="https://github.com/AAhmetDurmaz.png" width="100px;" alt="A. Ahmet Durmaz"/><br /><sub><b>A. Ahmet Durmaz</b></sub></a><br /><p>Üye</p></td>
+            <td align="center" valign="top" width="11.11%"><a href="https://github.com/YusufKizilgedik"><img src="https://github.com/YusufKizilgedik.png" width="100px;" alt="Yusuf Kızılgedik"/><br /><sub><b>Yusuf Kızılgedik</b></sub></a><br /><p>Üye</p></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Veri Seti
 [NST-UYZ](https://github.com/AAhmetDurmaz/NST-UYZ) projesinde kullanılan NST-v3.3 veri setinin küçük bir kısmı seçilip sadece otomobil etiketleri kalacak şekilde düzenlenmiştir. Elde edilen veri seti, bu proje kapsamında [ResNet50](https://keras.io/api/applications/resnet/) modelinin eğitiminde kullanılacaktır. NST-v3.3 veri seti bir YOLO veri seti olduğundan dolayı "scripts" klasörü içerisinde bulunan Python scriptleri ile [PascalVOC](http://host.robots.ox.ac.uk/pascal/VOC/) tipine çevrilmiştir.
 
