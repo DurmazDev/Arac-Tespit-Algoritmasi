@@ -27,7 +27,20 @@ args = parser.parse_args()
 model_path = os.path.join(args.model)
 model = models.load_model(model_path, backbone_name=args.backbone)
 
-labels_to_names = {0: 'otomobil'}
+labels_to_names = [
+    'otomobil',
+    'motosiklet',
+    'otobus',
+    'kamyon',
+    'gemi',
+    'insan',
+    'uap',
+    'uai',
+    'kepce',
+    'tren',
+    'vagon',
+    'yuk_gemisi'
+]
 image = read_image_bgr(args.input)
 draw = image.copy()
 

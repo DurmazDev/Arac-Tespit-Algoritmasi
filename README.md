@@ -70,8 +70,27 @@ python3 scripts/predict.py --input img1.jpg --output img1_output.jpg --backbone 
     <td><img src="/src/inputs/4.jpg" alt="Resim 4"></td>
     <td><img src="/src/outputs/4_output.jpg" alt="Resim 4"></td>
   </tr>
+  <tr>
+    <td><img src="/src/inputs/11.jpg" alt="Resim 11"></td>
+    <td><img src="/src/outputs/11_output.jpg" alt="Resim 11"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/inputs/22.jpg" alt="Resim 22"></td>
+    <td><img src="/src/outputs/22_output.jpg" alt="Resim 22"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/inputs/33.jpg" alt="Resim 33"></td>
+    <td><img src="/src/outputs/33_output.jpg" alt="Resim 33"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/inputs/44.jpg" alt="Resim 44"></td>
+    <td><img src="/src/outputs/44_output.jpg" alt="Resim 44"></td>
+  </tr>
 </table>
 
+## Elde Edilen Model
+
+Elde edilen modele [buradan](https://drive.google.com/drive/folders/1fGPezOVjW4KcYb2vyiG1Xm5O01unA1lf) erişebilirsiniz.
 
 ## Lisans
 
