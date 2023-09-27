@@ -6,7 +6,7 @@
     <tbody>
         <tr>
             <td align="center" valign="top" width="11.11%"><a href="https://github.com/barisazar"><img src="https://github.com/barisazar.png" width="100px;" alt="Baris Azar"/><br /><sub><b>Barış Azar</b></sub></a><br /><p>Üye</p></td>
-            <td align="center" valign="top" width="11.11%"><a href="https://github.com/AAhmetDurmaz"><img src="https://github.com/DurmazDev.png" width="100px;" alt="A. Ahmet Durmaz"/><br /><sub><b>A. Ahmet Durmaz</b></sub></a><br /><p>Üye</p></td>
+            <td align="center" valign="top" width="11.11%"><a href="https://github.com/DurmazDev"><img src="https://github.com/DurmazDev.png" width="100px;" alt="A. Ahmet Durmaz"/><br /><sub><b>A. Ahmet Durmaz</b></sub></a><br /><p>Üye</p></td>
             <td align="center" valign="top" width="11.11%"><a href="https://github.com/YusufKizilgedik"><img src="https://github.com/YusufKizilgedik.png" width="100px;" alt="Yusuf Kızılgedik"/><br /><sub><b>Yusuf Kızılgedik</b></sub></a><br /><p>Üye</p></td>
         </tr>
     </tbody>
